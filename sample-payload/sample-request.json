@@ -1,0 +1,8 @@
+{
+  "studentName": "Alice Patel",
+  "email": "alice@example.com",
+  "projectTitle": "Azure Serverless Logger",
+  "technology": "Azure Functions, Blob Storage",
+  "submissionDate": "2026-07-05T10:30:00Z",
+  "comments": "Portfolio project for AZ-900 and PL-900 learning"
+}
