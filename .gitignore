@@ -1,0 +1,10 @@
+local.settings.json
+.env
+__pycache__/
+.venv/
+.vscode/
+*.pyc
+.DS_Store
+/.vs/CopilotSnapshots/BAA2714BBBB7CF429FDC2C1E8D5DBBCE
+/.vs/AzureProjectwith0Investment.slnx/FileContentIndex
+/.vs/AzureProjectwith0Investment.slnx/copilot-chat/e1b7bd0d/sessions
